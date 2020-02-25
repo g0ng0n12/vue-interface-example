@@ -1,7 +1,7 @@
 # Appointment Interface with Vue
 This is an interface made with VueJs that let you handle different Appointments
 
-## Getting started:
+## Getting started:
 
 ### Prerequisites
   * Nodejs
