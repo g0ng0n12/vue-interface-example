@@ -1,24 +1,29 @@
-# vue-interface
+# Appointment Interface with Vue
+This is an interface made with VueJs that let you handle different Appointments
 
-## Project setup
+## Getting started:
+
+### Prerequisites
+  * Nodejs
+  * NPM or Yarn
+
+### Project setup
+
+from the command line run:
 ```
 yarn install
 ```
+or
+```
+npm install
+```
 
 ### Compiles and hot-reloads for development
+from the command line run:
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
+or
 ```
-yarn build
+npm serve
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
